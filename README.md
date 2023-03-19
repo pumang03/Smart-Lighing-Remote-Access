@@ -7,6 +7,7 @@ LINK: https://www.arduino.cc/en/software OR download from Microsoft Store.
 STEP 2:We have used Arduino IDE for human detection. And Arduino IoT cloud for Remote Access.
 
 WORKING  OF THE MODEL:
+
 1)The Automatic Room Lights using ESP-32 and IR Sensors is a project, where the lights in the room will automatically turn ON upon presence of a human and stay turned ON until the person has left.
 
 2)It is placed near the entrance and is used to count the number of people in the room using 2 IR sensors.
