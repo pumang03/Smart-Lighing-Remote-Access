@@ -1,2 +1,2 @@
-# Smart-Lighing-Remote-Access
+# Smart-Lighting-Remote-Access
 Using IoT
